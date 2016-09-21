@@ -1,0 +1,92 @@
+html,
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #404040;
+  background-color: 	white;
+}
+
+h1{
+  font-family: 'Roboto', sans-serif;
+  color:#4169E1;
+  font-size: 100px;
+  font-weight:bold;
+  text-align:center
+}
+
+h2{
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  font-size: 40px;
+  margin-left: auto;
+  width: 15em;
+}
+
+.container {
+  width: 520px;
+  margin-top: 20px;
+}
+
+.button-group {
+  margin-bottom: 20px;
+}
+
+.counter {
+  display: inline;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 10px;
+}
+
+.posts {
+  clear: both;
+  list-style: none;
+  padding-left: 0;
+  width: 100%;
+}
+
+.posts li {
+  background-color: #fff;
+  border: 1px solid #d8d8d8;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  word-wrap: break-word;
+  min-height: 42px;
+}
+
+p{
+  font-size:18px;
+  font-family:'Roboto', sans-serif;
+  color: grey;
+  text-align: justify;
+  word-spacing: 7px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40em
+}
+
+img.displayed{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:60%;
+  height:375px; //*não era isto que eu queria fazer, eu queria fazer crop*/
+         }
+
+#container{
+    text-align: center;
+}
+
+  .buttongame {
+    background-color: 	lightcyan; 
+    color: white;
+    width:150px;
+    height:40px;
+    text-align: center;
+    text-decoration: none;
+    margin-left:auto;
+    font-size: 16px;
+    em:60px;
+    }
